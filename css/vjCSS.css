@@ -5,7 +5,7 @@ body {
     text-decoration: none;
     max-width: 450px;
     text-align: center;
-    background-image: url(../img/bgwood-min.jpg);   
+    background-image: url("../img/bgwood-min.jpg");   
     padding-left: 15px;    
     padding-right: 15px;
     box-shadow: 1px 2px 15px rgba(72, 72, 72, 0.2);
