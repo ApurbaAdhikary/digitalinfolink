@@ -1,5 +1,3 @@
 # digitalinfolink
 
-Digitalinfolink
-link
-no
+(digitalinfolink)[https://vcard.digitalinfolink.in]
