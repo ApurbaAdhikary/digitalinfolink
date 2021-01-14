@@ -1,5 +1,4 @@
 # digitalinfolink
-
 Digitalinfolink
-link
-no
+/storage/emulated/0/Android/data/io.spck/files/
+l
