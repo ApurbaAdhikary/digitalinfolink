@@ -12,7 +12,7 @@ body {
     
     
     
-    .vjAkhuContainer {
+    .AkhuContainer {
     
     
     padding-left: 20px;
@@ -26,7 +26,7 @@ body {
     
     
     
-    .vjCover {
+    .Cover {
         background-image: url("../img/coverbg.jpg");
         background-repeat: no-repeat;
         background-size: cover;
@@ -36,7 +36,7 @@ body {
         z-index: -1;
      }
     
-    .vjCoverwhite {
+    .Coverwhite {
         background-color:white;
         margin:20px;
         border-radius: 10px;
@@ -59,7 +59,7 @@ body {
         
     }
     
-    .vjUserPhoto{
+    .UserPhoto{
         
         width: 250px;
         height:auto;
@@ -83,7 +83,7 @@ body {
     
     
     
-    .vjProfession{
+    .Profession{
         color:#CFCFCF;
         margin-top:-5px;
         margin-left: 20px;
@@ -93,7 +93,7 @@ body {
         letter-spacing: 0.4px;
        }
     
-    .vjCTAheading {
+    .CTAheading {
         text-align: left;
         font-weight: 500;
         font-size: 16px;
@@ -109,7 +109,7 @@ body {
             
         }
     
-    .vjCTAinfobox{
+    .CTAinfobox{
      display: inline-block;
      width: 70px;
         margin-bottom: 15px;
@@ -118,7 +118,7 @@ body {
     
     }
     
-    .vjctamaintext{
+    .ctamaintext{
         color: white;
         text-decoration: none;
         font-size: 13px;
@@ -127,7 +127,7 @@ body {
         
     }
     
-    .vjCTAimage {
+    .CTAimage {
         display:block;
         vertical-align: middle;
         width: 40px;
@@ -146,7 +146,7 @@ body {
     }
     
     
-    .vjShareContainer{
+    .ShareContainer{
     display:inline-block;
         vertical-align: middle;
         width: 35px;
@@ -159,7 +159,7 @@ body {
         margin-bottom: 10px;
     }
     
-    .vjsocialLink {
+    .socialLink {
     
             color: white;
      vertical-align: middle;
@@ -171,7 +171,7 @@ body {
     
     
     
-    .vjcopyrightcontainer {
+    .copyrightcontainer {
         height:20px;
         background-color:#494948;
         min-width:100%;
@@ -187,7 +187,7 @@ body {
         
     }
     
-    .vjcopyrights {
+    .copyrights {
         
     
         color:white;
@@ -200,17 +200,17 @@ body {
     
     
     
-    .vjFooterBranding {
+    .FooterBranding {
         
         height:80px;
-        background-image:url(vjimages/coverbg.png);
+        background-image:url(images/coverbg.png);
         width:100%;
     }
     
     
     
     
-    .vjGolIcon {
+    .GolIcon {
     
     color: white;
     vertical-align: middle;
@@ -220,13 +220,13 @@ body {
         
     
     
-    .vjNoDecoration{
+    .NoDecoration{
             text-decoration: none;
             color:#ffffff;
         }
     
     
-    .vjFooterSignup {
+    .FooterSignup {
     
         padding-top: 10px;
         padding-bottom: 10px;
@@ -248,27 +248,27 @@ body {
     
     
     
-    .vjJagya5 {
+    .Jagya5 {
         padding-top: 5px;
     }
-    .vjJagya10 {
+    .Jagya10 {
         padding-top: 10px;
     }
-    .vjJagya15 {
+    .Jagya15 {
         padding-top: 15px;
     }
-    .vjJagya20 {
+    .Jagya20 {
         padding-top: 20px;
     }
-    .vjJagya30 {
+    .Jagya30 {
         padding-top: 30px;
     }
-    .vjJagya40 {
+    .Jagya40 {
         padding-top: 40px;
     }
     
     
-    .vjfloatBottomRightBttn{
+    .floatBottomRightBttn{
             position:fixed;
             bottom:0;
             width:80px;
